@@ -1,8 +1,8 @@
 # charcount
 
-what? it counts char frequency that will recursively count all files `.go`.
+what? it counts char frequency recursively in all files `.go`.
 
-why? it would be nice to know such thing when you want to decide which keyboard layout to pick (in pretty dam seriously scientifically).
+why? it would be nice to know such thing when you want to decide which keyboard layout to pick (in pretty damn seriously way 🤣).
 
 go? yeah, `golang` is my language now. but it's not that difficult to make a regex filter to match whatever file you want. you got the power.
 
