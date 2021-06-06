@@ -21,7 +21,7 @@ func main() {
 		text, err := os.ReadFile(path)
 
 		for _, c := range text {
-			counter[string(c)]++
+			counter[strings.ToLower(string(c))]++
 			count++
 		}
 
